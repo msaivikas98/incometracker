@@ -1,0 +1,27 @@
+.list-item{
+    display:flex;
+    justify-content: space-around;
+    margin-left:auto;
+    margin-right:auto;
+    border:2px solid green;
+    margin-top:20px;
+    width:80%;
+}
+
+.listitem-text{
+    font-size:28px;
+    font-weight:500;
+    margin-bottom:0px;
+    margin-top:0px;
+    width:30%;
+}
+
+.listitem-button{
+    height:32px;
+    width:60px;
+    background-color:red;
+    color:white;
+    outline:none;
+    border:0px;
+    border-radius:6px;
+}
